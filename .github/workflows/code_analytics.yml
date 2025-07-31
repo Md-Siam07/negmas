@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      # arekta change
 
 jobs:
   analyze:
